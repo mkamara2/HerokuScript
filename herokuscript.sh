@@ -10,4 +10,3 @@ read msg
 git commit -m "$msg"
 heroku create $name
 git push heroku master
-echo "Uploaded to $name.herokuapp.com"
