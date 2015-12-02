@@ -1,4 +1,5 @@
 heroku login
+heroku create
 git init
 git add -A
 echo "Please enter a commit message: "
